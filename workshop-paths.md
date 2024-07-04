@@ -1,6 +1,6 @@
 # Workshop paths
 
-Interested in creating a pathed experience where you can build up your audience's skills progressively? Here are some suggestions, with extra resources available to make a great experience.
+Interested in creating a pathed experience where you can build up your audience's skills progressively? Here are some suggestions, with extra resources available to make a great experienc
 
 ## ML Zero to Hero
 
